@@ -1,4 +1,6 @@
 require_relative 'board'
 
-class Fixme
+class Game
+	def board
+	end
 end
